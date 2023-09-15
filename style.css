@@ -80,11 +80,11 @@ body * {
   background: white var(--switch-bg-url) no-repeat center;
   border: none;
   border-radius: 50%;
-  top: 75%;
+  top: 50%;
   left: 0;
   position: absolute;
   z-index: 1;
-  transform: translateY(-100%);
+  transform: translateY(-50%);
 }
 
 .light #switch button {
