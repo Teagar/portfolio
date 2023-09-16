@@ -18,7 +18,7 @@ This is the repository for my portfolio website, where I showcase my work and sh
 
 ## Live Demo
 
-You can check out the live demo of this portfolio [here](https://teagar.githuh.io/portfolio).
+You can check out the live demo of this portfolio [here](https://teagar.github.io/portfolio).
 
 ## Installation
 
