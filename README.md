@@ -27,11 +27,11 @@ You can check out the live demo of this portfolio [here](https://teagar.githuh.i
    ```bash
    git clone https://github.com/teagar/portfolio.git
 
-    Open the index.html file in your web browser to view the portfolio.
+Open the index.html file in your web browser to view the portfolio.
 
 Usage
 
 Feel free to use this portfolio template to showcase your own work. Customize it with your information and projects.
 Author
 
-    Thiago Cerqueira (Teagar)
+   Thiago Cerqueira (Teagar)
