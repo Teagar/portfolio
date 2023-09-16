@@ -1,37 +1,43 @@
-# Portfolio
+<h1 align="center"> Portfolio </h1>
 
-This is the repository for my portfolio website, where I showcase my work and share information about myself.
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-## Technologies Used
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- HTML
-- CSS
+<br>
+
+<p align="center">
+  <img alt="Portfolio project" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Technologies
+
+This project was developed using the following technologies:
+
+- HTML and CSS
 - JavaScript
+- Git and GitHub
+- Figma
 
-## Features
+## 💻 Project
 
-- Dark Mode Toggle
-- Links to my social media profiles
-- A link to my GitHub
-- A link to my Telegram profile
-- A link to my LinkedIn profile
+DevLinks is a link aggregator to use as an online business card.
 
-## Live Demo
+- [Access the finished project online](https://teagar.github.io/portfolio)
 
-You can check out the live demo of this portfolio [here](https://teagar.github.io/portfolio).
+## 🔖 Layout
 
-## Installation
+You can view the project's layout through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). A [Figma](https://figma.com) account is required to access it.
 
-1. Clone the repository:
+## :memo: License
 
-   ```bash
-   git clone https://github.com/teagar/portfolio.git
+This project is under the MIT license.
 
-Open the index.html file in your web browser to view the portfolio.
-
-Usage
-
-Feel free to use this portfolio template to showcase your own work. Customize it with your information and projects.
-Author
-
-   Thiago Cerqueira (Teagar)
+---
